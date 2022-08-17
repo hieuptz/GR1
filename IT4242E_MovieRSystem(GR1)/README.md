@@ -2,9 +2,6 @@
 
 A Movie Recommendation System.
 
-Machine Learning and Data Mining Project **IT4242E**
-
-Class **131082**.
 
 ## Notes
 
@@ -12,7 +9,7 @@ Class **131082**.
 In this project, there is a **strictly** order to run the project. Please **run** in the **guided order** so as not to see any error.
 
 ## Libraries and Packages use
-We use **Anacoda** Environment to install packages, libraries when use on Anacoda.
+I use **Anacoda** Environment to install packages, libraries when use on Anacoda.
 
 Working in Google Colaboratory is recommended.
 
@@ -36,7 +33,7 @@ pip install <library_name>
 
 We use **Anacoda** Environment to install packages, libraries.
 
-The files we will work on and also the order to execute is:
+The files I will work on and also the order to execute is:
 
 - `downloader.ipynb`
 - `cleaning_data.ipynb`
