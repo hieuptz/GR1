@@ -1,4 +1,4 @@
-# IT4242E_MovieRSystem
+# MovieRSystem
 
 A Movie Recommendation System.
 
